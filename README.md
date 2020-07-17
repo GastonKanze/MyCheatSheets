@@ -1,2 +1,2 @@
 # MyCheatSheets
-Commands of differents technologies
+Commands to manage different technologies
